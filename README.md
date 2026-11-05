@@ -1,4 +1,4 @@
-###ADO-02 – Fundamentação de Banco de Dados Relacional
+## ADO-02 – Fundamentação de Banco de Dados Relacional
 
 Autor: Thomas Lamounier Tema do projeto: Pokémon (nome, número na Pokédex e jogos em que aparecem)
 
